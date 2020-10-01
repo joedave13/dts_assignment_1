@@ -93,7 +93,7 @@
         android:layout_marginRight="24dp"
         android:text="Forgot Password?"
         android:textColor="#313131"
-        android:textSize="18sp"/>
+        android:textSize="18sp" />
 
     <Button
         android:id="@+id/btn_sign_in"
@@ -110,6 +110,6 @@
         android:text="Log In"
         android:textSize="18sp"
         android:textColor="#FFFFFF"
-        android:fontFamily="@font/montserrat_light"/>
+        android:fontFamily="@font/montserrat_light" />
 
 </android.support.constraint.ConstraintLayout>
