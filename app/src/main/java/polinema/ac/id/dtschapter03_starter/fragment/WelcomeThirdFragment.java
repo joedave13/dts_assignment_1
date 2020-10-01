@@ -34,6 +34,7 @@ public class WelcomeThirdFragment extends Fragment {
                 loadFragment(new WelcomeFirstFragment());
             }
         });
+
         tvLogin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
